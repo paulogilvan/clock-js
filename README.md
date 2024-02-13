@@ -12,6 +12,6 @@
 
 #
 
-Link do projeto: <a href="https://paulogilvan.github.io/burger-html-css/">burger</a>
+Link do projeto: <a href="https://paulogilvan.github.io/clock-js/">clock-js</a>
 
 <img src="https://github.com/paulogilvan/clock-js/blob/master/layout-clock.png?raw=true" />
